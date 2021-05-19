@@ -11,4 +11,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-[Taewoon Kim](https://tae898.github.io/)
+[Taewoon Kim](https://taewoonkim.com/)
