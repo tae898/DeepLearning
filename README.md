@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/263880058.svg)](https://zenodo.org/badge/latestdoi/263880058)
-
 # Deep Learning
+
+[![DOI](https://zenodo.org/badge/263880058.svg)](https://zenodo.org/badge/latestdoi/263880058)
 
 Currently on pause ... will be back soon.
 
