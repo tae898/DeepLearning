@@ -1,5 +1,7 @@
 # Deep Learning
 
+Currently on pause ... will be back soon.
+
 This repo is about the book https://www.deeplearningbook.org/ by Ian Goodfellow *et al*. It contains jupyter notebooks, which you can also run on Google Colab.
 
 ## Troubleshooting
