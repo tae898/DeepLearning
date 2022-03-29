@@ -26,4 +26,4 @@ Contributions are what make the open source community such an amazing place to b
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-[Taewoon Kim](https://taewoonkim.com/)
+[Taewoon Kim](https://taewoon.kim/)
