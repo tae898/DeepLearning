@@ -1,5 +1,7 @@
 # Deep Learning
 
+[![DOI](https://zenodo.org/badge/263880058.svg)](https://zenodo.org/badge/latestdoi/263880058)
+
 Currently on pause ... will be back soon.
 
 This repo is about the book https://www.deeplearningbook.org/ by Ian Goodfellow *et al*. It contains jupyter notebooks, which you can also run on Google Colab.
@@ -7,10 +9,6 @@ This repo is about the book https://www.deeplearningbook.org/ by Ian Goodfellow 
 ## Troubleshooting
 
 The best way to find and solve your problems is to see in the github issue tab. If you can't find what you want, feel free to raise an issue. We are pretty responsive.
-
-## Cite our work
-
-[![DOI](https://zenodo.org/badge/263880058.svg)](https://zenodo.org/badge/latestdoi/263880058)
 
 ## Contributing
 
